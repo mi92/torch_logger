@@ -5,6 +5,10 @@
 This minimalist package serves to log best values of performance metrics during the training of PyTorch models.
 The idea is to automatically log the best value for each tracked metric such that it can be directly analyzed downstream (e.g. when using wandb) without the need to post-process the raw logged values to identify the overall best values and corresponding steps.
 
+## Installation:  
+
+```$pip install torch_logger```
+
 ## Usage:  
 
 ```
