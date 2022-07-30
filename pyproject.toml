@@ -2,7 +2,10 @@
 name = "torch_logger"
 version = "0.1.0"
 description = "A minimalist package for logging best values of metrics when training models with PyTorch"
-authors = ["michael <michael.d.moor@gmail.com>"]
+authors = ["Michael Moor"]
+license = "BSD-3-Clause"
+readme = "README.md"
+include = ["README.md"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
