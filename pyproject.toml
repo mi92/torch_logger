@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "torch_logger"
-version = "0.1.0"
+version = "0.1.1"
 description = "A minimalist package for logging best values of metrics when training models with PyTorch"
 authors = ["Michael Moor"]
 license = "BSD-3-Clause"
